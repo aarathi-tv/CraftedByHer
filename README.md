@@ -64,3 +64,8 @@ Rating and review system
 AI-based product recommendations
 
 Analytics dashboard for sellers
+
+## Demo 
+Live Demo :http://silver-travesseiro-079ed8.netlify.app
+
+⚠️ This is a prototype demo. Data is stored locally in the browser using localStorage.
